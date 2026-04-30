@@ -18,3 +18,7 @@ Publications
 
 - Liu Yijie, Yan Shanshan, **Liu Hezhao**, Hou Shihao and Lu Yang. Dual-Imbalance Mitigation in Semi-Supervised Federated Learning Through Candidate-Aware Prototype Aggregation\[C\]//Chinese Conference on Pattern Recognition and Computer Vision (PRCV). Singapore: Springer Nature Singapore, 2025: 210-224. (CCF-C) \[[Paper](https://link.springer.com/chapter/10.1007/978-981-95-5693-9_15)\]
 
+
+Awards & Honors
+------
+- 2025中国图象图形学报研究生学术论坛优秀报告奖
